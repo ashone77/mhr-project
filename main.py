@@ -384,11 +384,11 @@ def characterSegmentation():
 
 	#-------------Displaying Image----------------#
 
-	showimages()
+	# showimages()
 
 	#-------------/Displaying Image---------------#
 
 
 	#-------------Closing Windows-----------------#
 
-	closewindows()
+	# closewindows()
